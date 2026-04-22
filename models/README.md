@@ -2,7 +2,7 @@
 
 This submission contains the model package and a lightweight smoke test script for local verification.
 
-## Authors
+## Contributors
 
 This work was jointly completed by **Huaguan Chen** (<huaguanchen@ruc.edu.cn>), a **Ph.D. student** at Renmin University of China, and **Ning Lin** (<ninglin00@outlook.com>), a **Master’s student** at Renmin University of China.
 
